@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <!-- Sanat Eseri İsimleri -->
+    <string name="artwork_title_1">Field of Tulips In Holland</string>
+    <string name="artwork_title_2">Starry Night</string>
+    <string name="artwork_title_3">The Persistence of Memory</string>
+
+    <!-- Sanatçı ve Tarih Bilgileri -->
+    <string name="artist_name_1">Claude Monet (1886)</string>
+    <string name="artist_name_2">Vincent van Gogh (1889)</string>
+    <string name="artist_name_3">Salvador Dalí (1931)</string>
+
+    <!-- Düğme Metinleri -->
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+</resources>
