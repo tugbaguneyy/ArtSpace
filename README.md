@@ -30,7 +30,7 @@ Follow these steps to run the app locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/ArtSpaceApp.git
+   git clone https://github.com/tugbaguneyy/ArtSpace.git
 2. Open the project in Android Studio.
 3. Sync Gradle and install the required dependencies.
 4. Run the app on an emulator or physical device.
